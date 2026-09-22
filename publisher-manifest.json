@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d1561e277323aaf08ea61b1c",
+  "owner": "yeqbrungek",
+  "repo": "page-0626f4dca5532b5ab4043326",
+  "title": "234Cloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0626f4dca5532b5ab4043326",
+      "a": "234Cloud",
+      "b": "机场官网线路发布页",
+      "entity": "234Cloud",
+      "brand": "234Cloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c9999a22e2c395a7ee21359c8dfdcf6248548fdbad4cba8ad444c68790d4e43c",
+      "content": {
+        "primary_entity": "234Cloud",
+        "keyword1": "234Cloud",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，完成订阅导入后即可在各平台使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选择适合的套餐，完成订阅配置，开启稳定加速体验。",
+          "AI_CLOSING_TITLE": "开启加速",
+          "AI_DESCRIPTION": "，提供多档套餐与灵活订阅周期，基础版每月 100GB 流量适合轻度使用，旗舰版每月 300GB 并支持全节点流媒体解锁与游戏加速，团队版每月 1000GB 满足多设备协作需求。",
+          "AI_FAQ_ANSWER_1": "在客户端中导入订阅链接即可。不同客户端导入方式略有差异，如 Clash 系导入 YAML 订阅，Shadowrocket 扫码或粘贴链接。",
+          "AI_FAQ_ANSWER_2": "套餐按同时在线设备数限制：基础版 3 台，旗舰版 5 台，团队版 20 台。超限时新设备无法连接，需升级套餐或断开其他设备。",
+          "AI_FAQ_ANSWER_3": "可以。在客户端配置中调整代理模式，让特定应用或域名走代理，其余流量直连，避免影响本地网络访问。",
+          "AI_FAQ_ANSWER_4": "月付与年付均可。年付更优惠，如基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。按需选择，随时可更换周期。",
+          "AI_FAQ_ANSWER_5": "在套餐页面完成支付后，订阅信息会同步到账户。登录用户中心即可复制订阅链接，一般几分钟内生效。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_2": "设备数量超出限制怎么办？",
+          "AI_FAQ_QUESTION_3": "可以在不影响本地网络的情况下使用吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "购买后如何获取订阅？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量到订阅周期，每项配置都影响使用体验。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "依据设备数量选择套餐，基础版 3 台、旗舰版 5 台、团队版 20 台。",
+          "AI_FEATURE_TITLE_1": "按设备选套餐",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线，游戏加速更稳定，流媒体节点全面解锁。",
+          "AI_FEATURE_TITLE_2": "专线加速与流媒体",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付优惠，基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FEATURE_TITLE_3": "灵活订阅周期",
+          "AI_GUIDE_INTRO": "按步骤完成套餐选择与客户端配置，即可开始使用。",
+          "AI_GUIDE_TITLE": "使用指引",
+          "AI_HERO_INTRO": "234Cloud 提供基础版、旗舰版与团队版多档套餐，覆盖从个人轻度使用到团队协作的不同流量与设备需求。",
+          "AI_HERO_SUBTITLE": "灵活套餐，适配多设备",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版每月 300GB，IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "套餐满足不同流量与设备数量需求，可根据实际使用场景选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量、同时在线设备数量与是否需要流媒体或游戏加速，选择基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "确认设备类型与操作系统，阅读对应客户端的适配要求，确保订阅格式匹配。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "参照所选客户端的订阅导入文档，粘贴订阅链接并更新节点，完成基础配置。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "234Cloud 加速套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "pzhqp.cn",
+    "host": "pzhqp.cn"
+  },
+  "file_hashes": {
+    "index.html": "e784d36fec29cb6852dc2210fc2f24287cb3cb1ecab6c064e323ea7f9b11f069",
+    "sitemap.xml": "965ba04e1f9505395eb55274a9e590e1eb79874a2e5df0757460996ba7bebf2b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0d8222fa90948ea74bca5c1fb829d5d16e2b54db6f59989629dad41573c40a2a",
+    "robots.txt": "d9ee4c7899a219893f0019b358ec1bdac0803ea147203b52f28d6091e2dd2c31",
+    "bfdf0d6a07836a291dbb63d4775b8354.txt": "38c025cad72c994e0445e9ee7201ce1ad0bb0e60c510adccd17c03337e3337e2"
+  },
+  "revision": "de27a3b247d01c3b7cb087b7ddb4ba13f54cb66c535747a1257e5f7f29a74c30"
+}
